@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://jugallachhwani15:jugal15@cluster0.nj7qplr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    "mongoURI": "mongodb://localhost:27017/devconnector",
+    "jwtSecret": "mysecrettoken"
 }
